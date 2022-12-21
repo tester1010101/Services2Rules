@@ -3,6 +3,8 @@
 * :gear: Reconverts them into applicables firewall rules through "netsh advfirewall firewall add rule".
 * :gear: Will get dumped & converted in: %USERPROFILE%\0xFF\Services2Rules\FWCommands.txt
 * :gear: Prompts user to open the dump/rules location, for analysis/learning/re-apply/backups.
+* 
+* :boxing_glove: You can make modifications afterwards to interfaces, out/in IPs, although some may be already configured. 
 
 # Instructions ::
 1) Run the PowerShell script (Run with PowerShell).

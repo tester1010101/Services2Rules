@@ -1,4 +1,4 @@
-# Services2Rules v1.2 :wrench: :screwdriver:
+# Services2Rules (v1.2) :wrench: :screwdriver:
 * :gear: Dumps ALL **Services** from Windows Services (svchost.exe). 
 * :gear: Reconverts them into applicables firewall rules through "netsh advfirewall firewall add rule".
 * :gear: Will get dumped & converted in: %USERPROFILE%\0xFF\Services2Rules\FWCommands.txt
